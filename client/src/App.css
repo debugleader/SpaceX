@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap");
+
+html::-webkit-scrollbar {
+  width: 18px;
+  background-color: rgb(238, 205, 255);
+}
+
+html::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  /* background: rgb(235, 100, 140); */
+  background: linear-gradient(
+    324deg,
+    rgba(235, 100, 140, 1) 0%,
+    rgba(105, 47, 134, 1) 63%
+  );
+}
+
+body {
+  background: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.title {
+  font-family: "Rock Salt", cursive;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 55px;
+  color: rgb(141, 0, 141);
+}
+
+.card,
+.cardo {
+  background-color: rgb(255, 240, 242);
+}
+
+.cardo {
+  width: 250px;
+  margin-left: 50px;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 340px) {
+  .cardo {
+    width: 215px;
+  }
+}
