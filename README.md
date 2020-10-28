@@ -19,7 +19,7 @@ npm install
 ```bash
 npm run server
 ```
-> Warning: There is a chance that one day, the API might have changes which could break the web app. Please, if you're facing any issues, [contact me](mailto:alkhassakyabdallah@gmal.com).
+> Warning: There is a chance that one day, the API might have changes which could break the web app. Please, if you're facing any issues, [contact me](mailto:alkhassakyabdallah@gmail.com).
 
 ------
 
