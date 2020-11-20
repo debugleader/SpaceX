@@ -1,6 +1,12 @@
 # SpaceX
 
-This is a web application that consumes the [SpaceX api](https://github.com/r-spacex/SpaceX-API), and turns it into a [GraphQL](https://github.com/graphql) API using [express-graphql](https://github.com/graphql/express-graphql), then it's consumed by [React](https://github.com/facebook/react) using [Apollo](https://github.com/apollographql) as a client!
+This is a **web application** that consumes the [SpaceX API](https://github.com/r-spacex/SpaceX-API), and turns it into a [GraphQL](https://github.com/graphql) API using [express-graphql](https://github.com/graphql/express-graphql), then it's consumed by [React](https://github.com/facebook/react) using [Apollo](https://github.com/apollographql) as a client!
+
+---
+
+> <img src="https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="600"/>
+
+---
 
 # How can I try it?
 
